@@ -7,4 +7,6 @@ Console.WriteLine("Starting to execute exercise!");
 
 //PrimeNumbersExercise.PrintPrimeNumbers(100);
 
+//PalindromeExercise.IsPalindrome("Civic");
+
 Console.WriteLine("Finished to execute exercise!");
